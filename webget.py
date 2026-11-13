@@ -1,6 +1,6 @@
 # webget.py
 # 实验2 Part D: 手写 HTTP 客户端
-# 仓库地址: https://github.com/ximiluor/netlab2
+# 仓库地址: https://github.com/ximiluoer/netlab2
 # 用法: python webget.py host path [port]
 import socket
 import sys
